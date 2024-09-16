@@ -6,9 +6,13 @@ This project demonstrates a Smart Street Light System designed using Arduino IDE
 
 # Features
 Automatic Light Control: Street lights turn on/off based on surrounding light intensity using an LDR (Light Dependent Resistor).
+
 Motion Detection: Lights activate when motion is detected by a PIR (Passive Infrared) sensor, ensuring lights are only on when needed.
+
 Energy Efficiency: Reduces energy consumption by switching off lights during the day and turning them on only when necessary.
+
 Simulation Support: Full support for simulation using Proteus 8 Professional, enabling easy testing and validation of the design.
+
 Arduino-Based Design: Easy-to-program and highly customizable using the Arduino IDE.
 
 # Components Used
