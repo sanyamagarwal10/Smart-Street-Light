@@ -29,7 +29,9 @@ This project demonstrates a Smart Street Light System designed using Arduino IDE
 𝗣𝗿𝗼𝘁𝗲𝘂𝘀 𝟴 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹: Used for simulating the circuit.
 
 # Working Principle
-Day Mode: During the day or when sufficient ambient light is detected, the street lights remain off.
-Night Mode: When the light level falls below a certain threshold (detected by the LDR), the system enters night mode, and the lights are turned on if motion is detected by the PIR sensor.
-No Motion: If no motion is detected, the street lights remain off even in the night mode, conserving energy.
+𝗗𝗮𝘆 𝗠𝗼𝗱𝗲: During the day or when sufficient ambient light is detected, the street lights remain off.
+
+𝗡𝗶𝗴𝗵𝘁 𝗠𝗼𝗱𝗲: When the light level falls below a certain threshold (detected by the LDR), the system enters night mode, and the lights are turned on if motion is detected by the PIR sensor.
+
+𝗡𝗼 𝗠𝗼𝘁𝗶𝗼𝗻: If no motion is detected, the street lights remain off even in the night mode, conserving energy.
 
