@@ -43,7 +43,7 @@ Arduino IDE
 
  Proteus 8 Professional
 1. Open Proteus 8 Professional.
-2. Load the provided smart_street_light.pdsprj file.
+2. Load the provided https://github.com/sanyamagarwal10/Smart-Street-Light/blob/main/smart%20street%20light%20.pdsprj file.
 3. Run the simulation to test the smart street light system.
 
 # Customization
