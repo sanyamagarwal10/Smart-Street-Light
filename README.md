@@ -5,15 +5,15 @@ The Smart Street Light System is an innovative approach to improving energy effi
 This project demonstrates a Smart Street Light System designed using Arduino IDE and simulated in Proteus 8 Professional. The system automatically controls street lighting based on real-time ambient light conditions and motion detection, providing an energy-efficient solution for urban environments. This project is ideal for IoT and home automation applications.
 
 # Features
-Automatic Light Control: Street lights turn on/off based on surrounding light intensity using an LDR (Light Dependent Resistor).
+𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗰 𝗟𝗶𝗴𝗵𝘁 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: Street lights turn on/off based on surrounding light intensity using an LDR (Light Dependent Resistor).
 
-Motion Detection: Lights activate when motion is detected by a PIR (Passive Infrared) sensor, ensuring lights are only on when needed.
+𝗠𝗼𝘁𝗶𝗼𝗻 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻: Lights activate when motion is detected by a PIR (Passive Infrared) sensor, ensuring lights are only on when needed.
 
-Energy Efficiency: Reduces energy consumption by switching off lights during the day and turning them on only when necessary.
+𝗘𝗻𝗲𝗿𝗴𝘆 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆: Reduces energy consumption by switching off lights during the day and turning them on only when necessary.
 
-Simulation Support: Full support for simulation using Proteus 8 Professional, enabling easy testing and validation of the design.
+𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻 𝗦𝘂𝗽𝗽𝗼𝗿𝘁: Full support for simulation using Proteus 8 Professional, enabling easy testing and validation of the design.
 
-Arduino-Based Design: Easy-to-program and highly customizable using the Arduino IDE.
+ 𝗔𝗿𝗱𝘂𝗶𝗻𝗼-𝗕𝗮𝘀𝗲𝗱 𝗗𝗲𝘀𝗶𝗴𝗻: Easy-to-program and highly customizable using the Arduino IDE.
 
 # Components Used
 Arduino Uno: Microcontroller used to control the system.
