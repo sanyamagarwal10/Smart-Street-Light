@@ -16,12 +16,17 @@ This project demonstrates a Smart Street Light System designed using Arduino IDE
  𝗔𝗿𝗱𝘂𝗶𝗻𝗼-𝗕𝗮𝘀𝗲𝗱 𝗗𝗲𝘀𝗶𝗴𝗻: Easy-to-program and highly customizable using the Arduino IDE.
 
 # Components Used
-Arduino Uno: Microcontroller used to control the system.
-LDR Sensor: For detecting ambient light conditions.
-PIR Sensor: To detect motion and trigger the lights.
-LEDs/Bulbs: Representing street lights.
-Resistors and Wires: Standard electronic components.
-Proteus 8 Professional: Used for simulating the circuit.
+𝗔𝗿𝗱𝘂𝗶𝗻𝗼 𝗨𝗻𝗼: Microcontroller used to control the system.
+
+𝗟𝗗𝗥 𝗦𝗲𝗻𝘀𝗼𝗿: For detecting ambient light conditions.
+
+𝗣𝗜𝗥 𝗦𝗲𝗻𝘀𝗼𝗿: To detect motion and trigger the lights.
+
+𝗟𝗘𝗗𝘀/𝗕𝘂𝗹𝗯𝘀: Representing street lights.
+
+𝗥𝗲𝘀𝗶𝘀𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗪𝗶𝗿𝗲𝘀: Standard electronic components.
+
+𝗣𝗿𝗼𝘁𝗲𝘂𝘀 𝟴 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹: Used for simulating the circuit.
 
 # Working Principle
 Day Mode: During the day or when sufficient ambient light is detected, the street lights remain off.
