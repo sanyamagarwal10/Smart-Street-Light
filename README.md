@@ -38,7 +38,7 @@ This project demonstrates a Smart Street Light System designed using Arduino IDE
 # Setup and Simulation
 Arduino IDE
 1. Install the Arduino IDE from Arduino's official website.
-2. Open the smart_street_light.ino file in the Arduino IDE.
+2. Open the https://github.com/sanyamagarwal10/Smart-Street-Light/blob/main/sketch_may04a.ino  file in the Arduino IDE.
 3. Upload the code to the Arduino Uno.
 
  Proteus 8 Professional
