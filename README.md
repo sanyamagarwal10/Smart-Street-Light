@@ -35,3 +35,7 @@ This project demonstrates a Smart Street Light System designed using Arduino IDE
 
 𝗡𝗼 𝗠𝗼𝘁𝗶𝗼𝗻: If no motion is detected, the street lights remain off even in the night mode, conserving energy.
 
+# Customization
+You can adjust the LDR threshold to control the light sensitivity by modifying the Arduino code.
+
+Similarly, you can configure the PIR sensor's sensitivity and response time to meet your requirements.
