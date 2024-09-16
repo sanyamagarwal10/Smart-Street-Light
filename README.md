@@ -35,6 +35,17 @@ This project demonstrates a Smart Street Light System designed using Arduino IDE
 
 𝗡𝗼 𝗠𝗼𝘁𝗶𝗼𝗻: If no motion is detected, the street lights remain off even in the night mode, conserving energy.
 
+# Setup and Simulation
+Arduino IDE
+1. Install the Arduino IDE from Arduino's official website.
+2. Open the smart_street_light.ino file in the Arduino IDE.
+3. Upload the code to the Arduino Uno.
+
+ Proteus 8 Professional
+1. Open Proteus 8 Professional.
+2. Load the provided smart_street_light.pdsprj file.
+3. Run the simulation to test the smart street light system.
+
 # Customization
 -> You can adjust the LDR threshold to control the light sensitivity by modifying the Arduino code.
 
